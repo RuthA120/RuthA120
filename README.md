@@ -2,7 +2,7 @@
 
 - 💬 I'm currently a sophomore studying Computer Science!
 - 🌱 I’m currently taking data structures and computer organization
-- 😄 I am looking to create newer projects
+- 😄 I am looking to better my coding skills
 
 <!--
 **RuthA120/RuthA120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
