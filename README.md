@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Ruth!👋
 
 - 💬 I'm currently a sophomore studying Computer Science!
 - 🌱 I’m currently taking data structures and computer organization
