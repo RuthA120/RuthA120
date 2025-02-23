@@ -1,7 +1,7 @@
 ## Hi there, my name is Ruth!👋
 
 - 💬 I'm currently a sophomore studying Computer Science!
-- 🌱 I’m currently taking data structures and computer organization
+- 🌱 I’m currently taking algorithms and statistics
 - 😄 I am looking to better my coding skills
   
 ![image](https://github.com/user-attachments/assets/dd1ef931-580a-4b79-8707-2e619f41605c)
