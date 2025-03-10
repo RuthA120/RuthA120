@@ -1,4 +1,6 @@
 ## Hi there, my name is Ruth!👋
+---
+My name is Ruth Assefa and I am a sophomore studying computer science! I am specializing in software engineering and I have experience in web development and data science.
 
 - 💬 I'm currently a sophomore studying Computer Science!
 - 🌱 I’m currently taking algorithms and statistics
