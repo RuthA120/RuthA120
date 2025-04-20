@@ -7,6 +7,7 @@ My name is Ruth and I am a sophomore studying computer science! I am specializin
   
 ![image](https://github.com/user-attachments/assets/dd1ef931-580a-4b79-8707-2e619f41605c)
 
+![Ruth-Dev-Avatar copy](https://github.com/user-attachments/assets/3befca69-2c20-4750-826e-1a27a82396f3)
 
 <!--
 **RuthA120/RuthA120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
