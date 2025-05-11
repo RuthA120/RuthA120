@@ -1,7 +1,7 @@
 # 👋 Hi there, my name is Ruth! 
 ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-## 🎓 Rising Junior at Southern Methodist University, studying Computer Science and Data Science
-## 🔭 Passionate about data science and software development
+### 🎓 Rising Junior at Southern Methodist University, studying Computer Science and Data Science
+### 🔭 Passionate about data science and software development
 I have hands-on experience in AI model development, graph databases, and object-oriented programming. My technical expertise spans Python, C++, and Neo4j, and I have applied machine learning techniques in both academic and research settings.
 
 ## 🎯 Featured Project: Coming soon!
@@ -16,7 +16,7 @@ I have hands-on experience in AI model development, graph databases, and object-
 ## 📫 How to Reach Me: 
 **LinkedIn:** [linkedin.com/in/yourprofileLinks to an external site.](https://www.linkedin.com/in/ruth-assefa-60839b261/) 
 
-### 📊 GitHub Stats: Coming soon!
+## 📊 GitHub Stats: Coming soon!
 
 
 
