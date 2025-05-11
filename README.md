@@ -7,14 +7,14 @@ I have hands-on experience in AI model development, graph databases, and object-
 ## 🎯 Featured Project: Coming soon!
 
 ## 🛠 Tech Stack: 
-### - Programming Languages: C++, Java, Python, Cypher, SQL, CSS, JavaScript 
-### - Tools & Environments: Visual Studio, VSCode, Neo4j, Eclipse 
-### - Technical: Data Cleaning, Graph Database Management, Text Embeddings, Vector Search, Object-Oriented Programming
+- **Programming Languages:** C++, Java, Python, Cypher, SQL, CSS, JavaScript
+- **Tools & Environments:** Visual Studio, VSCode, Neo4j, Eclipse 
+- **Technical:** Data Cleaning, Graph Database Management, Text Embeddings, Vector Search, Object-Oriented Programming
 
 ## 🚀 Projects: Coming soon!
 
 ## 📫 How to Reach Me: 
-### LinkedIn: [linkedin.com/in/yourprofileLinks to an external site.](https://www.linkedin.com/in/ruth-assefa-60839b261/) 
+**LinkedIn:** [linkedin.com/in/yourprofileLinks to an external site.](https://www.linkedin.com/in/ruth-assefa-60839b261/) 
 
 ### 📊 GitHub Stats: Coming soon!
 
