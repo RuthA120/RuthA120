@@ -10,11 +10,6 @@
 <br>Programming Languages: Python, C++, Java, JavaScript, HTML, CSS, React, Flask<br>Database/Query Languages: SQL, Google Cloud BigQuery, Cypher<br>Tools & Environments: Google Cloud Platform/Storage, VSCode, Neo4j, Eclipse<br>Technical: Data Engineering, Object-Oriented Programming, Full-Stack Development, Natural Language Processing<br><br>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RuthA120&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RuthA120&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuthA120&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=RuthA120&icon=0&color=0)](https://visitcount.itsvg.in)
 
