@@ -1,5 +1,11 @@
 # 💫 About Me:
-🎓 Rising Junior at Southern Methodist University, studying Computer Science and Data Science<br>🔭 Passionate about data science and software development<br><br>I am a Computer Science and Data Science student with experience in AI model development, web development, data engineering, and object-oriented programming. Skilled in Python, C++, React, and machine learning applications, with a strong academic foundation and research experience<br><br>🎯 Featured Project: NBA Dashboard<br>- Currently building a full-stack web application that blends sports analytics, social networking, and machine learning. Enables NBA fans to engage with data in a meaningful, interactive way.<br><br>
+🎓 With a passion for data, development, and design, I am a junior at Southern Methodist University studying Computer Science and Data Science. I have hands-on experience in full-stack web development, working in database systems, cloud computing, data analysis, and AI/ML.
+
+I recently completed my internship with CVS Health where I was working with the Data Engineering team to create a Python-based microservice pipeline on GCP that could ingest inconsistent drug data, while also building a frontend interface using Flask to improve data accessibility and user experience. 
+
+I work part-time as a research assistant at SMU Simmons School of Education at the Spatial Thinking and Embodied Technologies Lab, where we are exploring the influence of spatial reasoning on STEM learning through web and VR games.
+
+I'm set to graduate in the Spring of 2027 and my goal is to work in the intersection of data and development and to build tools that are insightful, impactful, and scalable.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ruth-a-60839b261) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ruthas1200) 
