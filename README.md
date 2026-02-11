@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 With a passion for data, development, and design, I am a junior at Southern Methodist University studying Computer Science and Data Science. I have hands-on experience in full-stack web development, working in database systems, cloud computing, data analysis, and AI/ML.
+🎓 With a passion for development, data, and design, I am a junior at Southern Methodist University studying Computer Science and Data Science. I have hands-on experience in full-stack web development, working in database systems, cloud computing, data analysis, and AI/ML.
 
 I recently completed my internship with CVS Health where I was working with the Data Engineering team to create a Python-based microservice pipeline on GCP that could ingest inconsistent drug data, while also building a frontend interface using Flask to improve data accessibility and user experience. 
 
